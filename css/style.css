@@ -1081,7 +1081,7 @@ h1, h2, h3, h4, h5,
   font-size: 20px; }
 
 .h-entry img {
-  margin-bottom: 30px; }
+  margin-bottom: 50px; }
 
 .h-entry .meta {
   color: #b3b3b3;
@@ -1786,10 +1786,9 @@ h1, h2, h3, h4, h5,
   .post-meta a {
     color: #fff;
     border-bottom: 1px solid rgba(255, 255, 255, 0.5); }
-.center-div
-{
-  float:none;
-  width:50%;
-  display:inline-block;
-  margin:0 auto;
+.center-div {
+  float: none;
+  width: 50%;
+  display: inline-block;
+  margin: 0 auto;
 }
