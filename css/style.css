@@ -1792,3 +1792,9 @@ h1, h2, h3, h4, h5,
   display: inline-block;
   margin: 0 auto;
 }
+.center-div1 {
+  float: none;
+  width:75%;
+  display: inline-block;
+  margin: 0 auto;
+}
